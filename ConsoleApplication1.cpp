@@ -5,7 +5,7 @@
 
 int main()
 {
-    std::cout << "Hello World! Version 2.0\n";
+    std::cout << "Hello World! Version 3.0\n";
 }
 
 // Ejecutar programa: Ctrl + F5 o menú Depurar > Iniciar sin depurar
